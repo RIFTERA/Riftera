@@ -1,9 +1,0 @@
-{
-  "name": "RIFTERA — Beast Hunter",
-  "short_name": "RIFTERA",
-  "description": "A browser survival game integrated with Flaunch Game Mode.",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#05060c",
-  "theme_color": "#05060c"
-}
